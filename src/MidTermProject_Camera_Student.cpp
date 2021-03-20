@@ -267,7 +267,7 @@ void feature_matching_pipeline_2D(string detectorChosen , string descriptorChose
         {
           fstream report;
           report.open("../output/Detector_report.txt", std::ios_base::app);
-          report <<","<<average_size<<"\n";
+          report <<","<<keypoints.size()<<","<<average_size<<"\n";
           report.close();              
         }
 
