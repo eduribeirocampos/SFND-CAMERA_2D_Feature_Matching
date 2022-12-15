@@ -16,7 +16,7 @@
 [image13]: ./images/Detector_SIFT.gif
 
 
-
+# Eduardo Ribeiro de Campos - March/2021
 # SFND 2D Feature Tracking
 
 
